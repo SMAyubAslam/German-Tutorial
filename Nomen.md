@@ -6,3 +6,6 @@
 | der Esel | donkey |
 | der Fuchs | fox |
 | das Lachen | laughter |
+| der Kuli | pen |
+| der Bleistift | pencil |
+| der Fernseher | tv |

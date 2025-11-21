@@ -13,4 +13,4 @@
 | richtig (correct) | falsch (wrong) |
 | schwer (heavy) | leicht (light) |
 | teuer (expensive) | billig (cheap) |
-| bunt (colorful) | — |
+| bunt (colorful) | einfarbig (one colored)|
