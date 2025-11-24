@@ -9,3 +9,5 @@
 | der Kuli | pen |
 | der Bleistift | pencil |
 | der Fernseher | tv |
+| die Familie | the family |
+| die Geschwister | siblings |

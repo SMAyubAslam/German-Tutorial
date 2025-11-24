@@ -40,3 +40,16 @@ Ich sehe den Hund.
 |------|-----------|----------|--------|--------|
 | **Nominative** | kein | keine | kein | keine |
 | **Accusative** | keinen | keine | kein | keine |
+
+### Akkusativ – Possessivepronomen
+
+| Pronomen | Maskulin | Feminin | Neutrum | Plural |
+|----------|----------|---------|---------|--------|
+| ich      | meinen   | meine   | mein    | meine  |
+| du       | deinen   | deine   | dein    | deine  |
+| er       | seinen   | seine   | sein    | seine  |
+| sie      | ihren    | ihre    | ihr     | ihre   |
+| es       | seinen   | seine   | sein    | seine  |
+| wir      | unseren  | unsere  | unser   | unsere |
+| ihr      | euren    | eure    | euer    | eure   |
+| sie/Sie  | ihren/Ihren | ihre/Ihre | ihr/Ihr | ihre/Ihre |
