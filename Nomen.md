@@ -11,3 +11,5 @@
 | der Fernseher | tv |
 | die Familie | the family |
 | die Geschwister | siblings |
+| die Speisekarte | menu |
+| das Trinkgeld | tip |

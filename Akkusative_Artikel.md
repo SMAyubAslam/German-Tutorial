@@ -53,3 +53,18 @@ Ich sehe den Hund.
 | wir      | unseren  | unsere  | unser   | unsere |
 | ihr      | euren    | eure    | euer    | eure   |
 | sie/Sie  | ihren/Ihren | ihre/Ihre | ihr/Ihr | ihre/Ihre |
+
+### Akkusativ - Personalpronomen
+
+| Nominativ | Akkusativ | English        |
+|-----------|-----------|----------------|
+| ich       | mich      | I / me         |
+| du        | dich      | you            |
+| er        | ihn       | he / him       |
+| sie       | sie       | she / her      |
+| es        | es        | it             |
+| wir       | uns       | we / us        |
+| ihr       | euch      | you all        |
+| sie       | sie       | they / them    |
+| Sie       | Sie       | you (formal)   |
+
