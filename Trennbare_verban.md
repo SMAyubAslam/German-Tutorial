@@ -73,7 +73,7 @@ Trennbare verbs ka prefix split nahi hota jab modal verb ho.
 Wo infinitive form me akhir me rehta hai (WITHOUT splitting).
 
 ### Examples with modal verbs (must / want / can):
-###Example 1 (Aufstehen)
+### Example 1 (Aufstehen)
 
 Ich will morgen früh aufstehen.
 (will = modal verb, aufstehen = infinitive, NOT “stehe…auf”)
